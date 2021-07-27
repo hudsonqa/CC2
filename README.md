@@ -14,4 +14,8 @@ Informe as chaves do IBM Watson TextToSpeechV1 e SpeechToTextV1 no arquivo Conve
 ## Execução
 Execute o arquivo Main.py
 
+![enter image description here](https://raw.githubusercontent.com/hudsonqa/CC2/main/imgs/speechtotext.JPG)![enter image description here](https://raw.githubusercontent.com/hudsonqa/CC2/main/imgs/texttospeech.JPG)
+
+
+
 
