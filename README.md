@@ -1,4 +1,4 @@
-## **Computação Cognitiva 2: Interface do usuário baseada em voz **
+## **Computação Cognitiva 2: Interface do usuário baseada em voz**
 O presente projeto tem como objetivo transforma texto em voz e voz em texto, e foi  elaborado como atividade da disciplina Computação Cognitiva 2 da Pós-Graduação em Inteligência Artifical .
 
 ## Instalação
